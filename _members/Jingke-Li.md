@@ -1,7 +1,7 @@
 ---
 name: Jingke Li
 image: images/Jingke-Li.jpg
-role: phd
+role: 
 group: alum
 project: VR Social Engineering 
 links:
