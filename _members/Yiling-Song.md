@@ -1,5 +1,5 @@
 ---
-name: Yiling-Song
+name: Yiling Song
 image: images/Yiling-Song.pg
 description: 
 role: programmer
