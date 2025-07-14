@@ -1,6 +1,6 @@
 ---
 name: Yiling Song
-image: images/Yiling-Song.pg
+image: images/Yiling-Song.jpg
 description: 
 role: programmer
 project: VR Social Engineering
