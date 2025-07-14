@@ -3,6 +3,7 @@ name: Huiyao Zheng
 image: images/Huiyao-Zheng.jpg
 description: 
 role: programmer
+group: alum
 project: Emotion Mask
 links:
   email: https://blank.org/
