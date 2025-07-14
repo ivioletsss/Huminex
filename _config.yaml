@@ -1,12 +1,13 @@
 # site properties and page defaults
 title: Huminex
 subtitle: 111(where is subtitle?)
-description: The Huminex lab is a research group deeply committed to exploring how intelligent technologies can responsibly enhance human emotion, cognition, and behavior. The lab grew out of a 
-student-led human-centered computing club started by Lili Zhang during her undergraduate years at Hainan University.
-Our mission is to design adaptive and embodied systems to ethically intervene in human experience without diminishing autonomy, to enhance well-being and promote equitable human–
-technology futures.
-Got ideas that broadly match our research goals? Come join us!
-Given our highly transdisciplinary focus, we warmly welcome individuals from diverse backgrounds including computer science, design, psychology, and cognitive science.
+description: >
+  The Huminex lab is a research group deeply committed to exploring how intelligent technologies can responsibly enhance human emotion, cognition, and behavior. The lab grew out of an
+  student-led human-centered computing club started by Lili Zhang during her undergraduate years at Hainan University.
+  Our mission is to designing adaptive and embodied systems to ethically intervene in human experience without diminishing autonomy, to enhance well-being and promote equitable human–
+  technology futures.
+  Got ideas that broadly match our research goals? Come join us!
+  Given our highly transdisciplinary focus, we warmly welcome individuals from diverse backgrounds including computer science, design, psychology, and cognitive science.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
