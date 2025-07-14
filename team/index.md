@@ -38,13 +38,3 @@ We create wearable systems, such as emotion-regulating masks, that detect physio
 Got ideas that broadly match our research goals? Come join us!
 Given our highly transdisciplinary focus, we warmly welcome individuals from diverse backgrounds including computer science, design, psychology, and cognitive science.
 {% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
