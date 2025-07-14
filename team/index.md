@@ -11,8 +11,27 @@ Our mission is to design adaptive and embodied systems to ethically intervene in
 
 {% include section.html %}
 
+<!-- Leader: PI -->
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+
+<!-- EEG Headset Group -->
+{% include section.html background="images/background.jpg" dark=true %}
+### EEG Headset Group
+We design EEG-powered smart headphones that respond to users’ attention, fatigue, and focus in real time. These devices aim to support learning, mental wellness, and daily productivity through neural sensing and adaptive playback.
+{% include list.html data="members" component="portrait" filter="project == 'EEG Headset'" %}
+
+<!-- VR Social Engineering Group -->
+{% include section.html %}
+### VR Social Engineering Group  
+This group investigates how immersive virtual reality environments can simulate, reveal, and prevent social engineering attacks. We explore the ethical design of VR-based cybersecurity training.
+{% include list.html data="members" component="portrait" filter="project == 'VR Social Engineering'" %}
+
+<!-- Emotion Mask Group -->
+{% include section.html background="images/background.jpg" dark=true %}
+### Emotion Regulation Mask Group  
+We create wearable systems, such as emotion-regulating masks, that detect physiological signals and provide real-time feedback to help users manage stress, emotions, and focus during everyday tasks.
+{% include list.html data="members" component="portrait" filter="project == 'Emotion Mask'" %}
+
 
 {% include section.html background="images/background.jpg" dark=true %}
 
