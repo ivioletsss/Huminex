@@ -1,6 +1,6 @@
 ---
 name: Yanbo Han
-image: images/Yanbo Han.jpg
+image: images/Yanbo-Han.jpg
 description: 
 role: programmer
 project: EEG Headset
