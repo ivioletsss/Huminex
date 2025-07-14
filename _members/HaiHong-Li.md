@@ -1,6 +1,6 @@
 ---
 name: Haihong Li
-image: images/Haihong-Li.pg
+image: images/Haihong-Li.jpg
 description: 
 role: programmer
 project: EEG Headset
