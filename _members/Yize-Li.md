@@ -1,6 +1,6 @@
 ---
 name: Yize Li
-image: images/Yize-Li.pg
+image: images/Yize-Li.jpg
 description: 
 role: programmer
 project: VR Social Engineering
