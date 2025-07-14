@@ -1,8 +1,7 @@
 ---
 name: Xiaoya Wang
 image: images/Xiaoya-Wang.jpg
-role: 
-group: alum
+role: programmer
 project: 	EEG Headset 
 links:
   github: https://blank.org/
