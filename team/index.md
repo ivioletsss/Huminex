@@ -11,8 +11,10 @@ Our mission is to design adaptive and embodied systems to ethically intervene in
 
 {% include section.html %}
 
-<!-- Leader: PI -->
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+<!-- Leader Section -->
+{% include section.html background="images/background.jpg" dark=true %}
+### Huminex Leader
+{% include list.html data="members" component="portrait" filter="role == 'Huminex Leader'" %}
 
 <!-- EEG Headset Group -->
 {% include section.html background="images/background.jpg" dark=true %}
