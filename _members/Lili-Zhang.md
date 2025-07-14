@@ -4,7 +4,7 @@ image: images/Lili_Zhang.jpg
 role: Huminex Leader
 affiliation: Temple University
 links:
-  home-page: www.bing.com
+  home-page: https://blank.org/
 ---
 
 Hi, I’m Lili. I’m currently a Master’s student in Cybersecurity at Temple University. I previously completed my Bachelor’s degree in Software Engineering at Hainan University, where I discovered my interest in Human-Centered Computing. In 2024, I founded the Huminex Lab, which I continue to lead today.
