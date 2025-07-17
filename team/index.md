@@ -14,7 +14,7 @@ Our mission is to design adaptive and embodied systems to ethically intervene in
 {% include list.html data="members" component="portrait" filter="role == 'Huminex Leader'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html %}
 
 Got ideas that broadly match our research goals? Come join us!
 Given our highly transdisciplinary focus, we warmly welcome individuals from diverse backgrounds including computer science, design, psychology, and cognitive science.
