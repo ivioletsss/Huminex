@@ -35,8 +35,8 @@ Given our highly transdisciplinary focus, we warmly welcome individuals from div
 
 {%
   include figure.html
-  image="images/contact2.jpg"
-  caption="Lorem ipsum"
+  image="images/contact2.png"
+  caption="Contact with us!"
 %}
 
 {% endcapture %}
@@ -45,8 +45,8 @@ Given our highly transdisciplinary focus, we warmly welcome individuals from div
 
 {%
   include figure.html
-  image="images/contact1.jpg"
-  caption="Lorem ipsum"
+  image="images/contact1.png"
+  caption="Contact with us!"
 %}
 
 {% endcapture %}
