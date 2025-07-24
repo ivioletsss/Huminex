@@ -16,7 +16,7 @@ Got ideas that broadly match our research goals? Come join us! Given our highly 
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We explore human-centered technologies that sense, respond to, and engage with emotion, perception, and the body. Our work bridges interaction design and cultural inquiry, spanning projects such as EEG-based headphones and emotion-aware wearables.
 
 {%
   include button.html
