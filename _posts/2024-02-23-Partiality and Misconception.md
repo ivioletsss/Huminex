@@ -1,5 +1,5 @@
 ---
-title: Partiality and Misconception: Investigating Cultural Representativeness in Text-To-Image Models
+title: "Partiality and Misconception: Investigating Cultural Representativeness in Text-To-Image Models"
 image: images/photo.jpg
 author: Lili Zhang
 tags: biology, medicine
