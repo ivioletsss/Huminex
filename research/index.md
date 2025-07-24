@@ -13,7 +13,8 @@ Our research spans affective computing, wearable technologies, and interactive m
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Partiality and Misconception: Investigating Cultural Representativeness in
+Text-To-Image Models" style="rich" %}
 
 {% include section.html %}
 
