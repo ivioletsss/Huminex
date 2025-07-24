@@ -31,7 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.jpeg"
   link="research"
   title="Our Research"
   text=text
@@ -55,7 +55,7 @@ From EEG-powered smart headphones to VR-based social engineering and emotion-reg
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/project.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -82,7 +82,7 @@ Our work focuses on exploring how intelligent systems can ethically and effectiv
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpeg"
   link="team"
   title="Our Team"
   text=text
